@@ -125,6 +125,7 @@
         "type": "timeseries"
       }
     ],
+    "preload": false,
     "schemaVersion": 42,
     "tags": [],
     "templating": {
@@ -136,7 +137,6 @@
     },
     "timepicker": {},
     "timezone": "browser",
-    "title": "New dashboard",
-    "weekStart": ""
+    "title": "K8s"
   }
 }
